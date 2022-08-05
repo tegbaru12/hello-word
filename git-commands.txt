@@ -2,3 +2,4 @@ git add . // or
 git add filename.ext // adding files to be updated to remote repo
 git commit -m 'your msg' // msg what you did in filename
 git push origin main // pushing changes to remote repositonr
+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 //github access token for insa desktop
